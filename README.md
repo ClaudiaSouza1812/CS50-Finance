@@ -8,4 +8,4 @@ Bellow it are the fields to buy and sell stocks.
 The web site also has a page with the history of transactions and another one to check the stocks prices in real time.
 
 # Technical description:
-Developed dinamically with Python, Flask, Jinja, SQL, HTML, CSS, JavaScript, jQuery and Bootstrap.
+Dynamic developed with Python, Flask, Jinja, SQL, HTML, CSS, JavaScript, jQuery and Bootstrap.
